@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/%D0%92%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logoColor=white&style=for-the-badge alt="VK Badge"/>
   </a>
 </div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Sasha-Kybik&style=flat-square&color=green" alt=""></p>
+
 <h3>
   <div id="badges" align="center">
     Всем Привет!
