@@ -1,4 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://vk.com/id13136611">
+    <img src="https://img.shields.io/badge/%D0%92%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?logo=VK&logoColor=white&style=for-the-badge alt="VK Badge"/>
+  </a>
+</div>
+<h3>
+  Всем Привет!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
+
+
 
 <!--
 **Sasha-Kybik/Sasha-Kybik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
